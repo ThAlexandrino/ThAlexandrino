@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, me chamo Thiago Rickelme ! 
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**ThAlexandrino/ThAlexandrino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 Atualmente estou trabalhando em projetos destinado a automações de alguns processos industriais utilizando i.a como principal ferramenta de codificação, também trabalho com suporte a usuários mas venho me aventurando ainda mais no mundo de desenvolvimento.
+- 🌱 Atualmente estou aprendendo Python, Django, NOSQL e SQL, mas estou sempre em busca de me atualizar em novas tecnologias, ou afins.
+- 👯 Estou procurando colaborar em projetos open sourcers para que eu consiga desenvolver e aprender ainda mais sobre desenvolvimento, e estou em busca do meu primeiro emprego na área de desenvolvimento Back-End
+
+
+- 📫 Linkeldn: [Thiago Alexandrino](www.linkedin.com/in/thiago-alexandrino-610a63429)
+     Email: t.rickelme@outlook.com
+
+
